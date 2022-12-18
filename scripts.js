@@ -1,7 +1,7 @@
 
 //OpenWeatherMap API. 
 
-const api = '00b0ed7faa2d3022b8120b502327dce9'; //Replace with your API
+const api = 'xx'; //Replace with your API
 
 const iconImg = document.getElementById('weather-icon');
 const loc = document.querySelector('#location');
